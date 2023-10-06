@@ -1,4 +1,4 @@
-# MDLHTMLPage
+# HTMLPagewithFavicon
 
 [![GitHub Super-Linter](https://github.com/HackerMan888/ICD20-Unit1-06-HTML-Favicon/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
